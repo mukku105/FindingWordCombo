@@ -8,7 +8,7 @@
 
 > [Word Cookies!] https://play.google.com/store/apps/details?id=com.bitmango.go.wordcookies > <br> [Scramble] https://play.google.com/store/apps/details?id=com.pieyel.scrabble
 
-![] (https://media.giphy.com/media/kOTatEQNrwsLt1bPHz/giphy.gif)
+![](https://media.giphy.com/media/kOTatEQNrwsLt1bPHz/giphy.gif)
 
 <br>
 
